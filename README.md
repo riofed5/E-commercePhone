@@ -1,9 +1,17 @@
-# Simple React Webpack boilerplate
+* Node server
 
-A ready to use simple boilerplate for React Apps.
+## Official version:
+* Checkout via: (https://ecommercephone.netlify.app/)
 
-## Instructions
+## Instruction feature
+* View phones and add to carts.
+* Checkout by Paypal(development version).
 
-* Clone the repo
-* Run `npm install`
-* Run `npm start`
+### Tech Stacks
+* Language: Javascript, Html/Css
+* ReactJS
+* Webpack
+
+### Run the app
+* Install package: `npm install`
+* Run locally: `npm start`
